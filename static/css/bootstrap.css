@@ -6768,8 +6768,8 @@ button.close {
 body {
     position: relative;
 }
-#about {padding-top:50px;padding-left:50px; padding-bottom:50px; height: auto;color: #000; background-color: #962D3E;}
-#classes {padding-top:0px;padding-left:50px; padding-bottom:50px; height: auto;color: #000; background-color: #348899;}
-#contact {padding-top:0px;padding-left:50px; padding-bottom:50px; height: auto;color: #000; background-color: #193441;}
-#section41 {padding-top:50px;height:500px;color: #fff; background-color: #00bcd4;}
-#section42 {padding-top:50px;height:500px;color: #fff; background-color: #009688;}
+
+.navbar-transparent {
+    background:transparent;
+    border-color: transparent;
+}
